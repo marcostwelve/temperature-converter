@@ -1,0 +1,16 @@
+<section>
+  <div class="container">
+    <div class="container-input">
+      <input [(ngModel)]="temperature" placeholder="Temperatura" type="number"/>
+      <select [(ngModel)]="scale">
+        <option value="C">Celsius</option>
+        <option value="F">Fahrenheit</option>
+      </select>
+      <button (click)="convert()">Converter</button>
+    </div>
+
+    <div>
+      <p *ngIf="result !== null">{{result}}°{{targetScale}}</p>
+    </div>
+  </div>
+</section>

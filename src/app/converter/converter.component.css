@@ -1,0 +1,52 @@
+section {
+  height: 100vh;
+}
+
+.container {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-input {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 1em;
+}
+
+.container input {
+  padding: 0.5em 5px;
+  border: 2px solid #363131;
+  border-radius: 5px;
+  outline: none;
+}
+
+.container select {
+  border-radius: 5px;
+  width: 100px;
+}
+
+.container button {
+  padding: 4px;
+  background: transparent;
+  outline: none;
+  border: 2px solid #363131;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+p {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 600;
+  transition: all 0.4s;
+}
+
+
+
+.container input::-webkit-inner-spin-button, .container input::-webkit-outer-spin-button {
+  display: none;
+}
+
