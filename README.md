@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Contador, é um simples APP para aumentar e diminuir números
+Conversor de temperatura, é um webapp para auxilio com cálculos de temperaturas em escalas Celsius e Fahrenheit
 
 - [visite o projeto online](https://temperature-converter-hazel-five.vercel.app/)
 
