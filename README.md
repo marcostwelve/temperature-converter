@@ -1,4 +1,43 @@
-# TemperatureConverter
+<h1 align="center"> Conversor de Temperatura Celsius / Fahrenheit </h1>
+
+<p align="center">
+    Um conversor de temperatura de Celsius para Fahrenheit e Fahrenheit para Celsius<br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+![image](https://github.com/marcostwelve/temperature-converter/assets/94411600/70c57b95-cb1a-4b85-8223-9e5b40eda599)
+
+
+<br/>
+
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Angular
+- Typescript
+
+## 💻 Projeto
+
+Contador, é um simples APP para aumentar e diminuir números
+
+- [visite o projeto online](https://temperature-converter-hazel-five.vercel.app/)
+
+
+## 🖋 Licença
+
+- Este projeto, está sob licença MIT
+
+
+
+# Configuração Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
